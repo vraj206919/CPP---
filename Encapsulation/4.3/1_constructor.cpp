@@ -1,5 +1,3 @@
-
-
 #include <iostream>
 using namespace std;
 class Con
@@ -7,11 +5,10 @@ class Con
 public:
     Con()
     {
-
-        cout << "this is a programming language";
+        cout << "This is Baccha's code";
     };
     ~Con(){
-        cout<<"\nmain part of programming";
+        cout<<"\nSo Please Don't Copy This Code";
     }
 };
 int main()
