@@ -71,7 +71,6 @@ public:
     }
     ~Cafe()
     {
-        // cout << "Object Destroyed\n";
     }
 };
 
